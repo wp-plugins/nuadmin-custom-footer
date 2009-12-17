@@ -3,7 +3,7 @@
 Plugin Name: nuAdmin Footer
 Plugin URI: http://www.tripleginteractive.com/blog/wordpress/nuadmin-footer/
 Description: nuFooter for the Admin pages of WordPress Navigate to <a href="options-general.php?page=nuadmin-footer/nuadmin-footer.php">Settings &rarr; nuAdmin Footer</a> to get started.
-Author: Gregg Henry
+Author: tripleGmax
 Version: 1
 Author URI: http://www.tripleginteractive.com/
 */
