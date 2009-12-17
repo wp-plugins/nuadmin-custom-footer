@@ -3,7 +3,7 @@ Contributors: tripleGmax, Gregg Henry
 Donate link: http://www.tripleginteractive.com/blog/donate/
 Tags: footer, admin, custom
 Requires at least: 2.7
-Tested up to: 2.8.6
+Tested up to: 2.9RC1
 Stable tag: 1.0
 
 This plugin allows you to change the footer text on the bottom left of the admin page.
