@@ -1,37 +1,47 @@
-/*
-Plugin Name: nuAdmin Footer
-Plugin URI: http://www.tripleginteractive.com/blog/wordpress/nuadmin-footer/
-Description: nuFooter for the Admin pages of WordPress Navigate to <a href="options-general.php?page=nuadmin-footer/nuadmin-footer.php">Settings &rarr; nuAdmin Footer</a> to get started.
-Author: Gregg Henry
-Version: 1.0
-Author URI: http://www.tripleginteractive.com/
-*/
+=== Plugin Name ===
+Contributors: tripleGmax, Gregg Henry
+Donate link: http://www.tripleginteractive.com/blog/donate/
+Tags: footer, admin, custom
+Requires at least: 2.7
+Tested up to: 2.8.6
+Stable tag: 1.0
 
-/*
-    ----------------------------------------------------------------------------
+This plugin allows you to change the footer text on the bottom left of the admin page.
 
-	Custom Admin Footer Plugin for WordPress
-	Copyright Gregg Henry
-	<http://www.tripleginteractive.com>
+== Description ==
 
-    This program is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
+This plugin allows you to change the footer text on the bottom left of the admin page.
 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-    GNU General Public License <http://www.gnu.org/licenses/> for 
-	more details.
+Once activated, navigate to the Settings -> nuAdmin Footer and change the Footer text/HTML.  You can use html to link to your website, your help desk, your email or anything you would like.  If you find the plugin to be useful and would like to donate, you can do so in the Settings.
 
-	----------------------------------------------------------------------------
-*/
+Here's a link to [the blog post on this topic](http://www.tripleginteractive.com/blog/wordpress/custom-admin-footer/ "free wordpress plugin: custom admin footer") for more information.  Future version's will have much more capabilities.
 
-Install: 
-1. Upload the nuadmin-footer folder to your wp-content/plugins/ folder.  
-2. Navigate to your plugins page in the Admin of your WordPress site.  
-3. Click ACtivate, to activate the plugin.
-4. Navigate to Settings -> nuAdmin Footer and add your footer content
-5. Donate ;-)
+== Installation ==
 
+This section describes how to install the plugin and get it working.
+
+1. Upload `nuadmin-footer` folder to the `/wp-content/plugins/` directory
+1. Activate the plugin through the 'Plugins' menu in WordPress
+1. Navigate to Settings ->nuAdmin Footer and add your own footer text.
+
+== Frequently Asked Questions ==
+
+= Is this plugin free? =
+
+Yes, just like all plugins available on wordpress.org, the nuAdmin Footer plugin is free under the GPL.
+
+= Can I use html? =
+
+Yes HTML is perfectly fine to include in your footer.
+
+== Screenshots ==
+
+1. This allows you to edit the info.
+
+== Changelog ==
+
+= 1.0 =
+* Added the ability to edit the text from admin settings (Admin only)
+
+= 0.5 =
+* moved from single file, to folder setup.
